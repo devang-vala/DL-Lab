@@ -1,4 +1,4 @@
-### 🧠 DL Lab - Semester 4
+### 🧠 DL Lab - Semester 6
 **Admission No. :** U23AI044
 
 ---
